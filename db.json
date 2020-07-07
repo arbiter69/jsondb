@@ -1,0 +1,30 @@
+{
+"results": [
+  
+  {
+    "geometry": {
+    "location": {
+      "lat": 44.820148,
+      "lng": 31.1358748
+    }
+  },
+  "pin": "https://mypin.com",
+  "name": "My first objective",
+  "image": "https://image.com",
+  "description": "This is a quick description."
+  },
+  {
+    "geometry": {
+    "location": {
+      "lat": 44.818885,
+      "lng": 20.400437
+    }
+  },
+  "pin": "https://mypin.com",
+  "name": "My first objective",
+  "image": "https://image.com",
+  "description": "This is another quick description."
+  }
+	
+  
+  ]}
